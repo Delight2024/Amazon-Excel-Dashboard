@@ -54,3 +54,15 @@ The dashboard answers 14 business questions using Excel tools. While most calcul
 
 ## 8. Conclusion
 This Excel dashboard simplifies Amazon product data into clear, actionable insights. It supports better inventory decisions, promotional strategies, and customer satisfaction tracking.
+
+---
+
+### Dashboard Preview
+![Amazon Dashboard Page 1](Amazon%20Dashboard%20I.png)
+![Amazon Dashboard Page 2](Amazon%20Dashboard%20II.png)
+
+---
+
+### Download Poject File
+You can download the Amazon dashboard file here
+![Amazon Analysis Dashboard.xlsx](Amazon%20Product%20Review%20Anaysis.xlsx)
