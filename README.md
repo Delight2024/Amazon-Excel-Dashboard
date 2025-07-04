@@ -65,5 +65,5 @@ This Excel dashboard simplifies Amazon product data into clear, actionable insig
 
 ### Download Poject File
 Download the Amazon product review dashboard file here
-![Amazon Analysis Dashboard.xlsx]((https://github.com/Delight2024/Amazon-Excel-Dashboard/raw/main/Amazon%20Product%20Review%20Analysis.xlsx)
+![Amazon Analysis Dashboard.xlsx](https://github.com/Delight2024/Amazon-Excel-Dashboard/raw/main/Amazon%20Product%20Review%20Analysis.xlsx)
 
