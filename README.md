@@ -1,4 +1,4 @@
-# Amazon Product Review Analysis Dashboard
+# Amazon Product Review Dashboard
 
 ## 1. Introduction
 Customer reviews provide rich insights into product performance, satisfaction, and pricing effectiveness. This project focuses on transforming Amazon product data into an interactive Excel dashboard to uncover patterns and answer business-critical questions.
@@ -64,5 +64,7 @@ This Excel dashboard simplifies Amazon product data into clear, actionable insig
 ---
 
 ### Download Poject File
-You can download the Amazon dashboard file here
+Download the Amazon product review dashboard file here
 ![Amazon Analysis Dashboard.xlsx](Amazon%20Product%20Review%20Anaysis.xlsx)
+
+-
