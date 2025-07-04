@@ -43,6 +43,7 @@ The dashboard answers 14 business questions using Excel tools. While most calcul
 -Question **11**: Explored using a **Scatter Plot** to analyze the relationship between price and rating  
 -All other questions used **Pivot Tables & Charts**  
 -Visuals were arranged in sequence based on question order in the **‘Amazon Dashboard’** sheet
+-
 
 ## 7. Recommendations
 -Focus marketing on products with high discounts and strong reviews  
